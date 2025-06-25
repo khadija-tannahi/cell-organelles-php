@@ -22,3 +22,9 @@ This project is an educational web app built with PHP, HTML5, and CSS. It allows
 3. The app displays the corresponding image and information about the selected organelle.
 
 
+ ## Live Demo
+
+[https://cellorganellesproject.infinityfreeapp.com/index.html](https://cellorganellesproject.infinityfreeapp.com/index.html)
+
+
+
